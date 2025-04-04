@@ -1,0 +1,1 @@
+{"name":"Local: bub","url":"/Users/depa/Documents/GitHub/toi-zero/bub.cpp","tests":[{"id":1743755209215,"input":"H 10\nT 2 50","output":"1050"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/depa/Documents/GitHub/toi-zero/bub.cpp","group":"local","local":true}
